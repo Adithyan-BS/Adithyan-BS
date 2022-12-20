@@ -7,7 +7,5 @@
 - 🔭 I’m currently working on Game Devlopment
 - 🌱 I’m currently learning Unity 3D
 -
-<p align="center">
-  <img src="[./images/cover.png](https://github.com/Adithyan-BS/Adithyan-BS/blob/main/Assets/Replaced_TermiteLair.gif)"width="500" height="320" />
-</p>
+![hippo]([https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif](https://github.com/Adithyan-BS/Adithyan-BS/blob/main/Assets/Replaced_TermiteLair.gif))
 -->

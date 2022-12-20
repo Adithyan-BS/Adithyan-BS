@@ -7,5 +7,5 @@
 - 🔭 I’m currently working on Game Devlopment
 - 🌱 I’m currently learning Unity 3D
 -
-![cover](Assets/Replaced_TermiteLair.gif)
+![cover](https://github.com/Adithyan-BS/Adithyan-BS/blob/main/Assets/Replaced_TermiteLair.gif)
 -->
